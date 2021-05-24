@@ -48,8 +48,10 @@ function App() {
 <h1 style={{color:'violet'}}>-------------------Context in React------------------</h1>
 <ContextProvider />
 
-<h1 style={{color:'orange'}}>-----------------------UseStae----------------------------------</h1>
+<h1 style={{color:'orange'}}>-----------------------UseState----------------------------------</h1>
 <Hooks />
+  
+  <h1>Hello Iam Venkat </h1>
     </div>
   );
 }
